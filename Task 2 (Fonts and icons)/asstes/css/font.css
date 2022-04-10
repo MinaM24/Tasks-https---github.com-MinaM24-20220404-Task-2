@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Barmeno';
+    src: url('../fonts/subset-Barmeno-ExtraBold.eot');
+    src: url('../fonts/subset-Barmeno-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/subset-Barmeno-ExtraBold.woff2') format('woff2'),
+        url('../fonts/subset-Barmeno-ExtraBold.woff') format('woff'),
+        url('../fonts/subset-Barmeno-ExtraBold.ttf') format('truetype'),
+        url('../fonts/subset-Barmeno-ExtraBold.svg#Barmeno-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
